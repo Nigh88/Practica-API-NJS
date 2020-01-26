@@ -42,6 +42,6 @@ npm run dev
 # Desconexion del servidor
 ctrl + C
 
-    *Servidor
+# URLs Server
     API --->  http://ec2-3-19-219-165.us-east-2.compute.amazonaws.com/
     Web ---> 3.19.219.165
